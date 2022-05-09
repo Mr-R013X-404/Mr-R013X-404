@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning Sololearn
 - 👯 I’m looking to collaborate on GitHub
 - 📫 How to reach me: Try and try
-- ⚡ Fun fact: ...
 
 
 
