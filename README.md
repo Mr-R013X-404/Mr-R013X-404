@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-R013X-404&theme=nord&show_icons=true&locale=en" alt="Mr-R013X-404" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Mr-R013X-404/github-readme-stats)
+
+
+![Profile views](https://gpvc.arturio.dev/[Mr-R013X-404])
