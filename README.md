@@ -23,6 +23,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KNI9H7-SH4D0W&theme=compact)](https://github.com/KNI9H7-SH4D0W/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R013X-404&theme=compact)](https://github.com/Mr-R013X-404/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KNI9H7-SH4D0W&theme=nord&show_icons=true&locale=en" alt="KNI9H7-SH4D0W" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-R013X-404&theme=nord&show_icons=true&locale=en" alt="Mr-R013X-404" /></p>
