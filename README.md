@@ -22,7 +22,6 @@
 <a href="https://t.me/MR_R013X_404"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"></a>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-R013X-404&theme=nord&show_icons=true&locale=en" alt="Mr-R013X-404" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Mr-R013X-404/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-R013X-404&theme=nord&show_icons=true&locale=en" alt="Mr-R013X-404" /></p>
