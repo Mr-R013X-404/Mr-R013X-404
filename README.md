@@ -30,3 +30,5 @@
 *****Visitor Github @Mr-R013X-404*****
 
 ![Profile views](https://gpvc.arturio.dev/Mr-R013X-404)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-R013X-404&show_icons=true)
