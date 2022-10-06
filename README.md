@@ -24,11 +24,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-R013X-404&theme=nord&show_icons=true&locale=en" alt="Mr-R013X-404" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Mr-R013X-404/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-R013X-404&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
 
 
 *****Visitor Github @Mr-R013X-404*****
 
 ![Profile views](https://gpvc.arturio.dev/Mr-R013X-404)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-R013X-404&show_icons=true)
