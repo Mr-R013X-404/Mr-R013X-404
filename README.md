@@ -1,5 +1,3 @@
-#### 💗💝 WELCOME TO MY GITHUB 💝💖
-
 ##### Hi there 👋, My name is Mr. R013X 404              
 
 </div>
