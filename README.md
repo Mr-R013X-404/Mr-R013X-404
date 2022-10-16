@@ -1,6 +1,12 @@
 ### Hi there 👋, My name is Mr. R013X 404              
 
+<div align="center" width="50"><b> Officials Websites</b>
+<br>                 
+https://mr-r013x404.cf
 </div>
+
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00F700&size=36&multiline=true&width=970&height=60&lines=Hello+there%2C+fellow+%3Chackers%2F%3E+and+%3Ccoder%2F%3E!)](https://git.io/typing-svg)
+
 
 <img src="https://64.media.tumblr.com/15561104f89158a49cf57fa8cfbe4a5b/9ebe49cb66aeeed6-e7/s640x960/388c8fae2ebc75d94c25fa683220122977701a0d.pnj" height="300" width="300" />
 
